@@ -1,5 +1,3 @@
-# clone-tabnews
-
 # 📚 Clone tabnews — curso.dev
 
 Repositório criado para registrar meu progresso no **[curso.dev](https://curso.dev)**, curso de programação do **Filipe Deschamps**.
