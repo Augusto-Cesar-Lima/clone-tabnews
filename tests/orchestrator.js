@@ -18,6 +18,9 @@ async function waitForAllServices() {
   }
 }
 
-export default {
+const oschestrator = {
   waitForAllServices,
 };
+
+
+export default oschestrator
