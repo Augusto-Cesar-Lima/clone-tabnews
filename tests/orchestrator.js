@@ -22,5 +22,4 @@ const oschestrator = {
   waitForAllServices,
 };
 
-
-export default oschestrator
+export default oschestrator;
