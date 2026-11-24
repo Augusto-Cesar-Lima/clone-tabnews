@@ -1,3 +1,4 @@
+/* eslint-disable no-unused-vars */
 function Home() {
   return <h1>Página em construção...🔧</h1>;
 }
